@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/thoma/Documents/GitHub/mlflow_trials/banking_problem/mlruns/115362167131445970/203aeac829614264ae5ac3f3ba27eb78/artifacts
+end_time: 1678468903436
+entry_point_name: ''
+experiment_id: '115362167131445970'
+lifecycle_stage: active
+run_id: 203aeac829614264ae5ac3f3ba27eb78
+run_name: first_run
+run_uuid: 203aeac829614264ae5ac3f3ba27eb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678468898919
+status: 3
+tags: []
+user_id: Thomaskutty
